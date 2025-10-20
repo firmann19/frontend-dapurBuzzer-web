@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="flex items-center gap-3 mb-4">
             <div className="p-2">
               <img
-                src="/src/assets/logo2.jpg"
+                src="/assets/logo2.jpg"
                 alt="Dapur Buzzer Logo"
                 className="w-12 h-12 object-contain rounded-lg"
               />

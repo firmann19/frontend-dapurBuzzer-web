@@ -15,7 +15,7 @@ export default function Navbar() {
       <div className="w-full px-6 md:px-12 py-3 flex items-center justify-between">
         <div className="flex items-center gap-3 font-semibold text-lg">
           <img
-            src="/src/assets/logo.png"
+            src="/assets/logo.png"
             alt="Dapur Buzzer"
             className="w-32 h-18"
           />

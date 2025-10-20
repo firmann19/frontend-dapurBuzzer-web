@@ -5,17 +5,17 @@ export default function PackageMicroInfluencer() {
     {
       title: "Paket Endorsement 10 Micro Influencer",
       price: "Rp 2.500.000",
-      image: "/src/assets/package-endorsement.jpg",
+      image: "/assets/package-endorsement.jpg",
     },
     {
       title: "Paket Paid Promote 10 Micro Influencer",
       price: "Rp 1.500.000",
-      image: "/src/assets/package-paid-promote.jpg",
+      image: "/assets/package-paid-promote.jpg",
     },
     {
       title: "Paket Produk Review 10 Micro Influencer",
       price: "Rp 2.000.000",
-      image: "/src/assets/package-produk-review.jpg",
+      image: "/assets/package-produk-review.jpg",
     },
   ];
 

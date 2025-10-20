@@ -8,7 +8,7 @@ export default function AboutUs() {
     <section className="bg-gray-50 py-20 px-6">
       <div className="max-w-5xl mx-auto bg-white rounded-3xl shadow-lg overflow-hidden flex flex-col items-center text-center p-10 md:p-16">
         <img
-          src="/src/assets/logo2.jpg"
+          src="/assets/logo2.jpg"
           alt="Dapur Buzzer Logo"
           className="w-20 h-20 mb-6 rounded-lg"
         />
